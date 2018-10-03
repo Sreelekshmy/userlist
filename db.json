@@ -20,27 +20,6 @@
       "dob": "09/07/1970",
       "email": "paula@sampledomain.com",
       "profileURL": "+915456545676"
-    },
-    {
-      "name": "asa",
-      "dob": "2018-10-03T18:30:00.000Z",
-      "email": "asdsad@fsdf",
-      "profileURL": "ADS",
-      "id": 4
-    },
-    {
-      "name": "asa",
-      "dob": "2018-10-03T18:30:00.000Z",
-      "email": "asdsad@fsdf",
-      "profileURL": "ADS",
-      "id": 5
-    },
-    {
-      "name": "asd",
-      "dob": "2018-10-05T18:30:00.000Z",
-      "email": "asdsad@fsdf",
-      "profileURL": "asad",
-      "id": 6
     }
   ]
 }
